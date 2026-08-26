@@ -1,0 +1,39 @@
+.content-section {
+    padding: 60px 20px;
+}
+
+.footer {
+    background-color: #02b10b; 
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+.btn-custom {
+    background-color: #00b837; 
+    color: white;
+}
+
+.btn-custom:hover {
+    background-color: #2e7c32; 
+}
+
+.tab-content {
+    padding: 20px;
+}
+
+.checkbox {
+    margin-bottom: 15px;
+}
+
+.container {
+    color: #000;
+}
+
+.header {
+    background-color: #008d2a; 
+}
